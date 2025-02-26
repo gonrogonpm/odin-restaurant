@@ -1,0 +1,3 @@
+# Dependency directories and generated output
+node_modules/
+dist/
